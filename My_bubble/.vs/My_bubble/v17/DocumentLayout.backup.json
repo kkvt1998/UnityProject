@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quakh\\My_bubble\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{386716E6-D76D-450E-0B0B-575A8629A0ED}|Assembly-CSharp.csproj|C:\\Users\\quakh\\My_bubble\\assets\\myscript\\throwball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386716E6-D76D-450E-0B0B-575A8629A0ED}|Assembly-CSharp.csproj|solutionrelative:assets\\myscript\\throwball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386716E6-D76D-450E-0B0B-575A8629A0ED}|Assembly-CSharp.csproj|c:\\users\\quakh\\my_bubble\\assets\\myscript\\buble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386716E6-D76D-450E-0B0B-575A8629A0ED}|Assembly-CSharp.csproj|solutionrelative:assets\\myscript\\buble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Buble.cs",
+              "DocumentMoniker": "C:\\Users\\quakh\\My_bubble\\Assets\\MyScript\\Buble.cs",
+              "RelativeDocumentMoniker": "Assets\\MyScript\\Buble.cs",
+              "ToolTip": "C:\\Users\\quakh\\My_bubble\\Assets\\MyScript\\Buble.cs",
+              "RelativeToolTip": "Assets\\MyScript\\Buble.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:04:52.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThrowBall.cs",
+              "DocumentMoniker": "C:\\Users\\quakh\\My_bubble\\Assets\\MyScript\\ThrowBall.cs",
+              "RelativeDocumentMoniker": "Assets\\MyScript\\ThrowBall.cs",
+              "ToolTip": "C:\\Users\\quakh\\My_bubble\\Assets\\MyScript\\ThrowBall.cs",
+              "RelativeToolTip": "Assets\\MyScript\\ThrowBall.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwDYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T14:03:49.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
